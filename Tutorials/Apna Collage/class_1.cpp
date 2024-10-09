@@ -1,1 +1,1 @@
-# How write flowchart pseudocode 
+// # How write flowchart pseudocode 
